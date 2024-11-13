@@ -1,0 +1,7 @@
+O nome da pasta principal do meu aplicativo se chama:
+Estudante
+Eu coloquei ela no Desktop
+Então:
+cd Desktop
+cd Estudante
+Obrigado!
